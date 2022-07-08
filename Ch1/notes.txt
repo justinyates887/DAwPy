@@ -1,0 +1,39 @@
+We can use Python to inpect, cleanse, and transform data that we can then model to discover useful information.
+
+Tools to learn:
+
+- Auto-managed
+    Qlik
+    tableau
+    looker
+    zoho
+    excel
+
+- Languages
+    Python
+    R
+    julia
+
+Knowing scriptingn languages allows for free, customized, and open-sourced tools you can utilize.
+
+Python has pwerful libraries avaiable for use, making it a top contender for DA.
+
+R is good for more advanced statistical methods and performance.
+
+Steps to DA:
+
+1) Extraction
+2) Cleaning
+3) Wrangling
+4) Analysis
+5) Action
+
+Libraries:
+
+pandas
+matplotlib
+numpy
+seaborn
+statsmodels
+scipy
+scikit-learn
